@@ -652,7 +652,7 @@ const players = {
         "poss": 48
       }
     },
-    "archetype": "Rim-Finishing 5 with Developing Stretch",
+    "archetype": "Rim-Finishing 5",
     "analysis": [
       "Elite finisher (1.20 PPS At Rim, 1.19 Layup on 108 poss).",
       "Featured as P&R Roll Man (23.7%, 66 poss) and Post-Up option (18%, 50 poss).",
